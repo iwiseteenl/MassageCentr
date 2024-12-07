@@ -1,0 +1,6 @@
+@MassageCentr_HostAddress = http://localhost:5259
+
+GET {{MassageCentr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
